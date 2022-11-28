@@ -4,7 +4,7 @@
 
 > Site Destinado a divulgação de certificados e tecnologias que estou estudando.
 
- [Clique aqui para acessar](https://danielfmluz.github.io/Portifolio)
+ [Clique aqui para acessar](https://danielfmluz.github.io/Site-Pessoal/)
 
 ## Tecnologias
 
